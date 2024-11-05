@@ -8,5 +8,5 @@ export const CACHECONTROL_NOTRANSFORM_REGEXP = /(?:^|,)\s*?no-transform\s*?(?:,|
 
 export const THRESHOLD_SIZE = 1024 as const
 export const ZSTD_LEVEL = 2 as const
-export const BROTLI_LEVEL = 11 as const
+export const BROTLI_LEVEL = 4 as const
 export const ZLIB_LEVEL = 6 as const
